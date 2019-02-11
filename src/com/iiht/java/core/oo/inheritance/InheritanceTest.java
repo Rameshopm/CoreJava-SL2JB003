@@ -1,4 +1,4 @@
-package com.iiht.java.core.oo;
+package com.iiht.java.core.oo.inheritance;
 
 public class InheritanceTest {
 	
